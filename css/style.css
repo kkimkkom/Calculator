@@ -1,0 +1,27 @@
+body{
+    margin: auto;
+    padding: 10px;
+    width: 400px;
+    text-align: center;
+}
+table{
+    margin: auto;
+    padding: 7px;
+    border: black solid 1px;
+}
+button{
+    height:40px;
+    width:40px;
+}
+#entered{
+    text-align: left;
+    height: 20px;
+}
+#input{
+    text-align: right;
+    height: 20px;
+}
+#trans{
+    width:80px;
+    background-color: #ffb482;
+}
